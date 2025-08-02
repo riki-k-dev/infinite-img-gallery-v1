@@ -1,0 +1,32 @@
+@import "tailwindcss";
+@import "./font.css";
+
+html {
+    font-size: calc((1 / 1440) * 100vw);
+    overflow: hidden;
+}
+
+body {
+    font-family: 'Figtree';
+    line-height: 1.21;
+    font-weight: 400;
+    background-color: #111111;
+    color: #ffffff;
+    margin: 0;
+    -moz-osx-font-smoothing: grayscale;
+    -webkit-font-smoothing: antialiased;
+    overscroll-behavior-y: none;
+}
+
+a {
+    text-decoration: none;
+    color: inherit;
+}
+
+html.dragging #hero {
+    cursor: grabbing;
+}
+
+.custom-shadow {
+    box-shadow: 0 10px 20px rgba(0, 0, 0, 0.4);
+}
