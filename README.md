@@ -2,7 +2,7 @@
 
 An **interactive infinite-scroll image grid** built with **React**, **GSAP**, and **Tailwind CSS**, featuring a smooth drag-based navigation system, dynamic grid replication, animated captions, and a modal popup preview. Optimized for immersive visual storytelling and portfolio-style image browsing.
 
-[![Hero Screenshot](public/heropage.png)](https://infinite-img-gallery.vercel.app/)
+[![Hero Screenshot](public/heropage.png)](https://infinite-img-gallery-v1.vercel.app/)
 
 ---
 
@@ -86,6 +86,7 @@ npm run preview
 ---
 
 📸 Image Credits
+
 All photographs used in this project are sourced from **[Unsplash](https://unsplash.com/)** under the [Unsplash License](https://unsplash.com/license).
 
 Credits:
