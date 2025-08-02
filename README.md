@@ -85,7 +85,7 @@ npm run preview
 
 ---
 
-📸 Image Credits
+## 📸 Image Credits
 
 All photographs used in this project are sourced from **[Unsplash](https://unsplash.com/)** under the [Unsplash License](https://unsplash.com/license).
 
